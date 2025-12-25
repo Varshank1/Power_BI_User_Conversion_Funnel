@@ -38,12 +38,6 @@ The goal is to identify **drop-off points**, **conversion efficiency**, and **tr
 - Funnel analysis
 - Business storytelling
 - Data modeling
-
----
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard.png)
-
 ---
 
 ## 🚀 Business Recommendations
